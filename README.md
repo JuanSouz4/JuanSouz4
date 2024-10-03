@@ -11,14 +11,14 @@ Sou um desenvolvedor com experiência em:
 Atualmente, estou expandindo meus conhecimentos em C#.
 <br>
 <br>
-[![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSouz4&theme=codeSTACKr&hide_border-true)](https://github.com/JuanSouz4/github-readme-stats)
+![Juan_GitHub_stats](https://github-readme-stats.vercel.app/api?username=JuanSouz4&show_icons=true&theme=codeSTACKr&hide_border-true)
 
 ## IDE's/OS:
-
 <img src="https://skillicons.dev/icons?i=androidstudio,windows,vscode,pycharm&theme=dark" />
 
 ## Language
 <img src="https://skillicons.dev/icons?i=html,css,js,python,react,mysql,cs&theme=dark"/>
 <br>
 
-![Juan_GitHub_stats](https://github-readme-stats.vercel.app/api?username=JuanSouz4&show_icons=true&theme=codeSTACKr&hide_border-true)
+[![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSouz4&theme=codeSTACKr&hide_border-true)](https://github.com/JuanSouz4/github-readme-stats)
+
