@@ -13,9 +13,6 @@ Atualmente, estou expandindo meus conhecimentos em C#.
 <br>
 [![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSouz4&theme=codeSTACKr&hide_border-true)](https://github.com/JuanSouz4/github-readme-stats)
 
-<br>
-<br>
-
 ## IDE's/OS:
 
 <img src="https://skillicons.dev/icons?i=androidstudio,windows,vscode,pycharm&theme=dark" />
