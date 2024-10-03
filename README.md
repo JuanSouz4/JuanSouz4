@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&pause=10&color=FF6600&width=435&lines=Welcome+to+my+github+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&pause=10&color=FF6600&width=435&lines=Welcome+to+my+github!" alt="Typing SVG" /></a>
 <br>
 <br>
 Olá, eu sou Juan Venâncio Zanfulini de Souza!
