@@ -31,7 +31,6 @@ Atualmente, estou expandindo meus conhecimentos em C#.
 <a href="https://www.youtube.com/">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="30" height="30" />
 </a>
-<br>
 
 ## Contact Me
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRpfDZdQrsZtMvggkCXTgNbwmFPVMSZkmjtQxnxqSxGBhtrXgTcdSNXmSWgWfqMdkNbpNCg">
