@@ -11,5 +11,5 @@
 <img src="https://skillicons.dev/icons?i=github,windows,vscode,pycharm&theme=dark" />
 
 ## Language
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,mysql,androidstudio,CSharp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,mysql,androidstudio&theme=dark"/>
 </div>
