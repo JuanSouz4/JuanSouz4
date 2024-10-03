@@ -1,7 +1,8 @@
-## Welcome to my Github
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&pause=10&color=F24F00&width=435&lines=Welcome+to+my+github+!" alt="Typing SVG" /></a>
+<br>
+<br>
 Olá, eu sou Juan Venâncio Zanfulini de Souza!
-Sou um desenvolvedor com experiência em várias tecnologias. Tenho conhecimento em:
+Sou um desenvolvedor com experiência em:
 
 - **Linguagens de Programação:** Python, JavaScript, C#
 - **Desenvolvimento Web:** HTML, CSS, React
