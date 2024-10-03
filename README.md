@@ -1,7 +1,7 @@
 ## Welcome to my Github
 
 
-<a href="https://github.com/JuanSouz4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanSouz4&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true" alt="Juan Souza github stats" /></a>
+<a href="https://github.com/JuanSouz4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanSouz4&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true" alt="Juan github stats" /></a>
 <br>
 <br>
 
