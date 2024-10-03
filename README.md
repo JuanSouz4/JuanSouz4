@@ -21,4 +21,14 @@ Atualmente, estou expandindo meus conhecimentos em C#.
 <br>
 
 [![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSouz4&theme=codeSTACKr&hide_border-true)](https://github.com/JuanSouz4/github-readme-stats)
+<br>
 
+## Social Profile
+ <a href="https://www.linkedin.com/in//">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  
+ <a href="https://www.youtube.com/">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+  </a>
+  
