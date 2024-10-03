@@ -11,8 +11,8 @@ Sou um desenvolvedor com experiência em:
 Atualmente, estou expandindo meus conhecimentos em C#.
 <br>
 <br>
+<a href="https://github.com/JuanSouz4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSouz4&layout=compact&theme=codeSTACKr&hide_border=true" /></a> 
 
-<a href="https://github.com/JuanSouz4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanSouz4&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true" alt="Juan github stats"/></a>
 <br>
 <br>
 
@@ -24,4 +24,4 @@ Atualmente, estou expandindo meus conhecimentos em C#.
 <img src="https://skillicons.dev/icons?i=html,css,js,python,react,mysql,cs&theme=dark"/>
 </div>
 
-<a href="https://github.com/JuanSouz4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSouz4&layout=compact&theme=codeSTACKr&hide_border=true" /></a> 
+<a href="https://github.com/JuanSouz4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanSouz4&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true" alt="Juan github stats"/></a>
