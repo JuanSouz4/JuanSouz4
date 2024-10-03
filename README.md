@@ -34,4 +34,4 @@ Atualmente, estou expandindo meus conhecimentos em C#.
 <br>
 <br>
 <br>
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JuanSouz4&repo=JuanSouz4&countColorcountColor&countColor=%23F4672C"/>
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JuanSouz4&repo=JuanSouz4&countColorcountColor&countColor=%23F4672C" width="65" height="27"/>
