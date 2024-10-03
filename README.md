@@ -1,7 +1,17 @@
 ## Welcome to my Github
 
+Olá, eu sou Juan Venâncio Zanfulini de Souza!
+Sou um desenvolvedor com experiência em várias tecnologias. Tenho conhecimento em:
 
-<a href="https://github.com/JuanSouz4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanSouz4&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true" alt="Juan github stats" /></a>
+- **Linguagens de Programação:** Python, JavaScript, C#
+- **Desenvolvimento Web:** HTML, CSS, React
+- **Banco de Dados:** MySQL
+
+Atualmente, estou expandindo meus conhecimentos em C#.
+<br>
+<br>
+
+<a href="https://github.com/JuanSouz4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanSouz4&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true" alt="Juan github stats"/></a>
 <br>
 <br>
 
@@ -14,4 +24,3 @@
 </div>
 
 <a href="https://github.com/JuanSouz4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSouz4&layout=compact&theme=codeSTACKr&hide_border=true" /></a> 
-
