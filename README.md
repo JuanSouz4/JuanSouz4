@@ -33,9 +33,9 @@ Atualmente, estou expandindo meus conhecimentos em C#.
 </a>
 
 ## Contact Me
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRpfDZdQrsZtMvggkCXTgNbwmFPVMSZkmjtQxnxqSxGBhtrXgTcdSNXmSWgWfqMdkNbpNCg">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="30" height="30" />
-</a>
+<br>
+<p>juanvz.souza@gmail.com</p>
+
 <br>
 <br>
 <br>
