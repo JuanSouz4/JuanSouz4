@@ -28,7 +28,7 @@ Atualmente, estou expandindo meus conhecimentos em C#.
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="30" height="30" />
 </a>
 <br>
-<a href="https://www.youtube.com/">
+<a href="https://www.instagram.com/juansouza017/">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="30" height="30" />
 </a>
 
